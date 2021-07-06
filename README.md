@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrDraong
-- 🌱 I’m currently working on API
+- 🌱 I’m currently working on Memories API project
 - 📫 https://www.linkedin.com/in/charles-capiaux-88a501184/
 
 <!---
