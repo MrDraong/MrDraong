@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrDraong
+- 👋 Hi, I’m @MrDraong ʕ •ᴥ•ʔ
 - 🌱 I’m currently working on Memories API project
 - 📫 https://www.linkedin.com/in/charles-capiaux-88a501184/
 
